@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Samuel/source/repos/ShiftHoursCalc/out/build/x64-debug/ShiftHoursCalc/CMakeFiles/ShiftHoursCalc.dir/embed.manifest"

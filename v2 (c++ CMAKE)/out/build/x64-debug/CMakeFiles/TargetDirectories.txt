@@ -1,0 +1,5 @@
+C:/Users/Samuel/source/repos/ShiftHoursCalc/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samuel/source/repos/ShiftHoursCalc/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Samuel/source/repos/ShiftHoursCalc/out/build/x64-debug/ShiftHoursCalc/CMakeFiles/ShiftHoursCalc.dir
+C:/Users/Samuel/source/repos/ShiftHoursCalc/out/build/x64-debug/ShiftHoursCalc/CMakeFiles/edit_cache.dir
+C:/Users/Samuel/source/repos/ShiftHoursCalc/out/build/x64-debug/ShiftHoursCalc/CMakeFiles/rebuild_cache.dir
